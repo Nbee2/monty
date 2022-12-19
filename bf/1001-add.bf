@@ -1,4 +1,4 @@
-++       Cell c0 = 2
+,++       Cell c0 = 2
 > +++++  Cell c1 = 5
 
 [        Start your loops with your cell pointer on the loop counter (c1 in our case)
